@@ -8,4 +8,4 @@
 MJBioInfo/MJBioInfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Majeed CV MAY 2021.pdf](https://github.com/MJBioInfo/MJBioInfo/files/9127674/Majeed.CV.MAY.2021.pdf)
+[Majeed CV MAY 2021.pdf](https://github.com/MJBioInfo/MJBioInfo/blob/main/MJ-CV(Version-3).pdf)
